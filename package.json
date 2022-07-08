@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ohataken/gascp/issues"
   },
-  "homepage": "https://github.com/ohataken/gascp#readme"
+  "homepage": "https://github.com/ohataken/gascp#readme",
+  "dependencies": {
+    "@googleapis/script": "^0.4.2"
+  }
 }
