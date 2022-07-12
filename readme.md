@@ -26,7 +26,7 @@ npm link
 gascp --showauthurl [client_id] [client_secret] [redirect_uri]
 ```
 
-then it will show the long url. paste it into your browser address, consent, and get redirected to http://localhost:8080/oauth2/callback?code=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/script.deployments%20https://www.googleapis.com/auth/script.processes%20https://www.googleapis.com/auth/script.projects&authuser=0&prompt=consent . 
+then it will show the long url. paste it into your browser address, consent, and get redirected to http://localhost:8080/oauth2/callback?code=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&scope=&authuser=0&prompt=consent .
 
 ### 5. Enter the code
 
