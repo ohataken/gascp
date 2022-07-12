@@ -10,7 +10,7 @@ open [https://script.google.com/home/usersettings](https://script.google.com/hom
 
 ### 2. Get API credentials
 
-GCP console.
+open GCP console https://console.cloud.google.com/welcome , create a project, create OAuth2 consent, and create credentials.
 
 ### 3. Install
 
