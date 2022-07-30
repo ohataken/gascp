@@ -20,7 +20,14 @@ npm install
 npm link
 ```
 
-### 4. OAuth2
+### 4. Copy the config file
+
+```
+cd gascp
+cp oauth2_token.json ~/.gascp_oauth2_token.json
+```
+
+### 5. OAuth2
 
 ```
 gascp --showauthurl [client_id] [client_secret] [redirect_uri]
@@ -28,7 +35,7 @@ gascp --showauthurl [client_id] [client_secret] [redirect_uri]
 
 then it will show the long url. paste it into your browser address, consent, and get redirected to http://localhost:8080/oauth2/callback?code=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&scope=&authuser=0&prompt=consent .
 
-### 5. Enter the code
+### 6. Enter the code
 
 ```
 gascp --enterauthcode [redirect_uri] [code]
@@ -36,7 +43,7 @@ gascp --enterauthcode [redirect_uri] [code]
 
 code is a query string of the redirect url.
 
-### 6. Copy a Google Apps Script project to another one
+### 7. Copy a Google Apps Script project to another one
 
 ```
 gascp cp [origin_id] [destination_id]
