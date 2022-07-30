@@ -2,6 +2,8 @@
   "access_token": "xxxx",
   "refresh_token": "xxxx",
   "scope": "",
+  "client_id": "8888-xxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+  "client_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "token_type": "Bearer",
   "id_token": "",
   "expiry_date": 0
