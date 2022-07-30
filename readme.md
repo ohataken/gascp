@@ -31,7 +31,7 @@ then it will show the long url. paste it into your browser address, consent, and
 ### 5. Enter the code
 
 ```
-gascp --enterauthcode [client_id] [client_secret] [redirect_uri] [code]
+gascp --enterauthcode [redirect_uri] [code]
 ```
 
 code is a query string of the redirect url.
