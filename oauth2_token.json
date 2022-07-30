@@ -1,10 +1,10 @@
 {
-  "access_token": "xxxx",
-  "refresh_token": "xxxx",
-  "scope": "",
-  "client_id": "8888-xxxxxxxxxxxxxxxx.apps.googleusercontent.com",
-  "client_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "client_id": "452893865036-3ugoeb6la55elpkjg3q94gmd27fuc9f4.apps.googleusercontent.com",
+  "client_secret": "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",
+  "access_token": "ya29.A0AVA9y1ubj9cG35vPAwPi_a3ENNjnzPDictv6-i2Gw9JWPYoBiRWT7wCqUZpQqMUvHqJ0bX1r_nh977AgM6bNIoWV3VWG0Jp8g8JbDcCSm36fMpOjgktG8-U9ymuhoZFXDJaIASnsdWNc3UrNxIWqyFiFYGjoYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4aTlScGZqa05BT3ctNlphT3VOMVhQQQ0163",
+  "refresh_token": "1//0eVZ6J6IMh5ElCgYIARAAGA4SNwF-L9IrwKKMTzWF5xLPtL99kf-X2V4EgwloKvfIk3DFRpu3dMiJqvXUwUUIQLibfMxa-0SPPmU",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/script.projects https://www.googleapis.com/auth/script.deployments openid https://www.googleapis.com/auth/script.processes",
   "token_type": "Bearer",
-  "id_token": "",
-  "expiry_date": 0
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1NDllMGFlZjU3NGQxYzdiZGQxMzZjMjAyYjhkMjkwNTgwYjE2NWMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0NTI4OTM4NjUwMzYtM3Vnb2ViNmxhNTVlbHBramczcTk0Z21kMjdmdWM5ZjQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0NTI4OTM4NjUwMzYtM3Vnb2ViNmxhNTVlbHBramczcTk0Z21kMjdmdWM5ZjQuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDg1NzEwODg2MTIxODMzODYyMzMiLCJoZCI6ImZhc3Rkb2N0b3IuanAiLCJlbWFpbCI6Imtlbi5vaGF0YUBmYXN0ZG9jdG9yLmpwIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ3c0ctSTBqcHpCbjBaejJaaUswNDV3IiwibmFtZSI6IuWkp-eVoOWBpSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQUZkWnVjcDl3STFEemNpVUNYeE12b09oQ2ZmdkpEdm5SQnE3R3p6OWpiVTk9czk2LWMiLCJnaXZlbl9uYW1lIjoi5YGlIiwiZmFtaWx5X25hbWUiOiLlpKfnlaAiLCJsb2NhbGUiOiJqYSIsImlhdCI6MTY1OTE1MDk3MSwiZXhwIjoxNjU5MTU0NTcxfQ.DW9XniO9IND6BcvWqABQ8zFDunJJ6Az7vk2oaNwDje_-GJmCU5sOh5j_bbCxnkMv4iFFrvljM1-gw6467cUwUWvWZPPEpuL0iCDJ02XzJsdLlCqqyIgVm5BXEvZHCImaPs92QeGSX9SpLE7B_BwOQZLs_tFMmn69BSBbvoaNEbMUqL6owcHMnzLnlqNHkiW-fWjbErscLNcgQPFd4ymOaD7yncHF6dv0HTw5s4o5ZqK-n9Zvhzb_VnuYFwO3XpqmSdZm9t1QqHuReChOhI38iMM1z_ZZ3YgY7XvWKJrmo4q5bWMDz16JMVlC4QmVnbaMu-RzS0pWtbbp1sEM3x1oEw",
+  "expiry_date": 1659154570374
 }
